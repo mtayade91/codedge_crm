@@ -15,7 +15,7 @@ Welcome to the CodeEdge CRM project! This CRM (Customer Relationship Management)
 1. Clone the repository:
 
    ```
-   git clone https://github.com/yourusername/codedge-crm.git
+   git clone https://github.com/mtayade91/codedge_crm.git
    ```
 
 2. Navigate to the project directory:
@@ -33,7 +33,7 @@ Welcome to the CodeEdge CRM project! This CRM (Customer Relationship Management)
 4. Start the development server:
 
    ```
-   npm start
+   npm run dev
    ```
 
 5. Open your browser and navigate to `http://localhost:5173` to view the application.
